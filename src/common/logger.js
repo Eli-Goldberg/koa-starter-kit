@@ -2,7 +2,7 @@ const bunyan = require('bunyan');
 const mkdirp = require('mkdirp');
 const path = require('path');
 
-mkdirp.sync(path.join(__dirname, '/logs'));
+mkdirp.sync(path.join(__dirname, '../../logs'));
 
 const loggerConfig = {
   name: g.config.appName,
