@@ -1,5 +1,5 @@
 # koa-starter-kit
-
+[![Build Status](https://travis-ci.org/Eli-Goldberg/koa-starter-kit.svg?branch=master)](https://travis-ci.org/Eli-Goldberg/koa-starter-kit)
 
 > A starter kit for [koa](https://github.com/koajs/koa)
 
